@@ -3,9 +3,9 @@
 This code was tested on Google Colab.
 
 **Requirements**
-- OpenCV ('pip install opencv-python')
-- Ultralyitcs YOLO ('pip install ultralytics'and 'pip install YOLO')
-- tqdm ('pip install tqdm')
+- OpenCV (`pip install opencv-python`)
+- Ultralyitcs YOLO (`pip install ultralytics` and `pip install YOLO`)
+- tqdm (`pip install tqdm`)
 
 **How to Run**
 
