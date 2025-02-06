@@ -19,8 +19,11 @@ This code was tested on Google Colab.
    Open the new_dataset folder to see the results:
 
    Processed frames: `new_dataset/images`
+
    Label files: `new_dataset/labels`
+
    Visualized images (with bounding boxes): `new_dataset/visualizations`
+
    The link to access and download the folder (`https://drive.google.com/file/d/1XhnHWBm18x-w160URx34iKBqZwappNxn/view?usp=sharing`)
 
 **Sample images**
